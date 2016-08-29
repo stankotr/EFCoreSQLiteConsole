@@ -142,6 +142,10 @@
     <Compile Include="Migrations\20160817092307_Initial-Migration.designer.cs">
       <DependentUpon>20160817092307_Initial-Migration.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\20160829200750_dodano polje Note.cs" />
+    <Compile Include="Migrations\20160829200750_dodano polje Note.designer.cs">
+      <DependentUpon>20160829200750_dodano polje Note.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\DataContextModelSnapshot.cs" />
     <Compile Include="Models\Beer.cs" />
     <Compile Include="Program.cs" />
